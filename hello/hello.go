@@ -20,3 +20,4 @@ func main(){
     }
 }
 
+// This is an example for a post at https://ltmoingay.com/post/go-web/hello/
